@@ -3184,7 +3184,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUANJATAN" }
+      "properties": { "nama_kecamatan": "Anjatan" }
     },
     {
       "geometry": {
@@ -4105,7 +4105,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUARAHAN" }
+      "properties": { "nama_kecamatan": "Arahan" }
     },
     {
       "geometry": {
@@ -5244,7 +5244,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUBALONGAN" }
+      "properties": { "nama_kecamatan": "Balongan" }
     },
     {
       "geometry": {
@@ -7034,7 +7034,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUBANGODUA" }
+      "properties": { "nama_kecamatan": "Bangodua" }
     },
     {
       "geometry": {
@@ -9312,7 +9312,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUBONGAS" }
+      "properties": { "nama_kecamatan": "Bongas" }
     },
     {
       "geometry": {
@@ -12241,7 +12241,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUCANTIGI" }
+      "properties": { "nama_kecamatan": "Cantigi" }
     },
     {
       "geometry": {
@@ -15954,7 +15954,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUCIKEDUNG" }
+      "properties": { "nama_kecamatan": "Cikedung" }
     },
     {
       "geometry": {
@@ -20948,7 +20948,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUGABUSWETAN" }
+      "properties": { "nama_kecamatan": "Gabuswetan" }
     },
     {
       "geometry": {
@@ -26231,7 +26231,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUGANTAR" }
+      "properties": { "nama_kecamatan": "Gantar" }
     },
     {
       "geometry": {
@@ -29158,7 +29158,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUHAURGEULIS" }
+      "properties": { "nama_kecamatan": "Haurgeulis" }
     },
     {
       "geometry": {
@@ -30789,7 +30789,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUINDRAMAYU" }
+      "properties": { "nama_kecamatan": "Indramayu" }
     },
     {
       "geometry": {
@@ -32370,7 +32370,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUJATIBARANG" }
+      "properties": { "nama_kecamatan": "Jatibarang" }
     },
     {
       "geometry": {
@@ -33728,7 +33728,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUJUNTINYUAT" }
+      "properties": { "nama_kecamatan": "Juntinyuat" }
     },
     {
       "geometry": {
@@ -36426,7 +36426,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUKANDANGHAUR" }
+      "properties": { "nama_kecamatan": "Kandanghaur" }
     },
     {
       "geometry": {
@@ -37249,7 +37249,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUKARANGAMPEL" }
+      "properties": { "nama_kecamatan": "Karangampel" }
     },
     {
       "geometry": {
@@ -38242,7 +38242,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUKEDOKANBUNDER" }
+      "properties": { "nama_kecamatan": "Kedokan Bunder" }
     },
     {
       "geometry": {
@@ -39289,7 +39289,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUKERTASEMAYA" }
+      "properties": { "nama_kecamatan": "Kertasemaya" }
     },
     {
       "geometry": {
@@ -47882,7 +47882,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUKROYA" }
+      "properties": { "nama_kecamatan": "Kroya" }
     },
     {
       "geometry": {
@@ -48704,7 +48704,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUKRANGKENG" }
+      "properties": { "nama_kecamatan": "Krangkeng" }
     },
     {
       "geometry": {
@@ -52112,7 +52112,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYULELEA" }
+      "properties": { "nama_kecamatan": "Lelea" }
     },
     {
       "geometry": {
@@ -54177,7 +54177,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYULOHBENER" }
+      "properties": { "nama_kecamatan": "Lohbener" }
     },
     {
       "geometry": {
@@ -57108,7 +57108,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYULOSARANG" }
+      "properties": { "nama_kecamatan": "Losarang" }
     },
     {
       "geometry": {
@@ -58351,7 +58351,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUPASEKAN" }
+      "properties": { "nama_kecamatan": "Pasekan" }
     },
     {
       "geometry": {
@@ -59707,7 +59707,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUPATROL" }
+      "properties": { "nama_kecamatan": "Patrol" }
     },
     {
       "geometry": {
@@ -60895,7 +60895,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUSINDANG" }
+      "properties": { "nama_kecamatan": "Sindang" }
     },
     {
       "geometry": {
@@ -62417,7 +62417,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUSLIYEG" }
+      "properties": { "nama_kecamatan": "Sliyeg" }
     },
     {
       "geometry": {
@@ -63141,7 +63141,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUSUKAGUMIWANG" }
+      "properties": { "nama_kecamatan": "Sukagumiwang" }
     },
     {
       "geometry": {
@@ -64978,7 +64978,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUSUKRA" }
+      "properties": { "nama_kecamatan": "Sukra" }
     },
     {
       "geometry": {
@@ -72888,7 +72888,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUTERISI" }
+      "properties": { "nama_kecamatan": "Terisi" }
     },
     {
       "geometry": {
@@ -74024,7 +74024,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUTUKDANA" }
+      "properties": { "nama_kecamatan": "Tukdana" }
     },
     {
       "geometry": {
@@ -75641,7 +75641,7 @@
         ]
       },
       "type": "Feature",
-      "properties": { "kode_name": "JAWABARATINDRAMAYUWIDASARI" }
+      "properties": { "nama_kecamatan": "Widasari" }
     }
   ],
   "type": "FeatureCollection",
